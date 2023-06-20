@@ -7,6 +7,7 @@ specifiers:
   react: ^18.2.0
   react-dom: ^18.2.0
   react-h5-audio-player: ^3.8.6
+  react-icons: ^4.9.0
   react-redux: ^8.1.0
   react-router-dom: ^6.13.0
   react-scripts: 5.0.1
@@ -21,6 +22,7 @@ dependencies:
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
   react-h5-audio-player: 3.8.6_biqbaboplfbrettd7655fr4n2y
+  react-icons: 4.9.0_react@18.2.0
   react-redux: 8.1.0_egguyi6kvemdtrnkbl3bdoeaey
   react-router-dom: 6.13.0_biqbaboplfbrettd7655fr4n2y
   react-scripts: 5.0.1_react@18.2.0
@@ -8444,6 +8446,14 @@ packages:
       '@iconify/react': 3.2.2_react@18.2.0
       react: 18.2.0
       react-dom: 18.2.0_react@18.2.0
+    dev: false
+
+  /react-icons/4.9.0_react@18.2.0:
+    resolution: {integrity: sha512-ijUnFr//ycebOqujtqtV9PFS7JjhWg0QU6ykURVHuL4cbofvRCf3f6GMn9+fBktEFQOIVZnuAYLZdiyadRQRFg==}
+    peerDependencies:
+      react: '*'
+    dependencies:
+      react: 18.2.0
     dev: false
 
   /react-is/16.13.1:
